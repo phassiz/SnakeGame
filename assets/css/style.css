@@ -1,0 +1,9 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+h1{
+    color: #8edf7e
+}
