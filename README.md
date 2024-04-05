@@ -17,4 +17,4 @@ Segue abaixo imagem do projeto em execução:
 
 Espero que gostem do projeto e aproveitem ;)
 
-[LinkedIn:](https://www.linkedin.com/in/pedro-assiz/)
+LinkedIn:[](https://www.linkedin.com/in/pedro-assiz/)
